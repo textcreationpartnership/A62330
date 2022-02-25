@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Scotch politicks in a letter to a friend.</title>
+            <author>J. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62330</idno>
+            <idno type="STC">Wing S85</idno>
+            <idno type="STC">ESTC R37192</idno>
+            <idno type="EEBO-CITATION">16267605</idno>
+            <idno type="OCLC">ocm 16267605</idno>
+            <idno type="VID">105188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1156:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Scotch politicks in a letter to a friend.</title>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.S.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105188:1" rendition="simple:additions"/>
+            <p>Scotch Politicks: IN A LETTER TO A FRIEND.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Janeway,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105188:2"/>
+            <pb n="1" facs="tcp:105188:2" rendition="simple:additions"/>
+            <head>A LETTER TO A FRIEND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Remember at our laſt Converſe, you was pleas'd to ask me,
+Whether I did not much admire, that the <hi>Scots</hi> ſhould ſo moderately
+temper themſelves in Parliament, as to the Duke's ſuppos'd being a
+Papiſt, after that Point had been ſo ſeverely Proſecuted by our late
+<hi>Engliſh</hi> Repreſentatives?</p>
+            <p>To which, Sir taking my ſelf ſomewhat better prepar'd now, to
+return you an Anſwer, than I was then, I muſt ſay, That if
+<hi>England</hi> made it a matter of Conſcience, as to it's Religion and
+Intereſt, it was no leſs queſtionable, if <hi>Scotland</hi> would
+Conſpire on the ſame Account: Not that I believe they are in Love with
+Popery more than we, but rather hold it proper to diſpoſe their ends by a
+more grateful Byaſs, than by touching on that point. And if all this be
+attributed to the deference of their Natures, the calmneſs of their
+Obedi<g ref="char:EOLhyphen"/>ence, together with a general Reluctancy of their paſt Tranſactions,
+their Intentions, perhaps, may be much mi<g ref="char:EOLhyphen"/>ſtaken. And, for my part, I
+ſhould be loth to oblige them ſo far, as to Credit their Actions inſtead
+of their Deſign and Meaning.</p>
+            <p>And ſince you have thus occaſion'd my Freedom, cer<g ref="char:EOLhyphen"/>tainly,
+Sir, if this be well inſpected, it muſt diſcover a ſtrange 
+<pb n="2" facs="tcp:105188:3"/>knack of <hi>Scottiſh</hi> Policy, where it is predominant.
+Or what does it otherwiſe appear, than that they would chuſe to be the
+Duke's on the moſt extraordinary and dangerous ac<g ref="char:EOLhyphen"/>count, in reſpect of the
+oppoſition of <hi>England</hi> (though in point of Religion) that can at any
+time befall his Intereſt.</p>
+            <p>And all this too with ſuch an exceeding Manifeſtation of
+pretended Loyalty, that it muſt ſeem to ſurpaſs all Queries or
+Boundaries whatſoever. Unleſs in the future, or rather as oc<g ref="char:EOLhyphen"/>caſion
+beſt offers, they let looſe ſome Reſerv'd or Tacit Con<g ref="char:EOLhyphen"/>ception, whereby
+they may, on good Terms to themſelves, impede ſuch their Indefinite
+Aſſurances, as they never intended beyond a more beneficial Emergency,
+whenſoever it ſhould happen. A Method very ſuitable to the uſual
+Obſcurity of <hi>Scotch</hi> Integrity and Principles, as alſo how
+conſiderably they are generally qualify'd and convey'd, cannot be the doubt
+of any that have well perceiv'd the diſſipation of ſuch Miſts, as have
+guided not a few of their late and former Ma<g ref="char:EOLhyphen"/>nagements.</p>
+            <p>And to be home with them, I doubt not to affirm, That under
+whatſoever Circumſtances the Duke appears to be moſt Arbitrary
+diſpos'd, relating to the preſent Juncture and Com<g ref="char:EOLhyphen"/>plexion of the
+<hi>Engliſh</hi> Nation, the more acceptably will his Concern be eſpous'd
+and influenc'd by ſome preſent <hi>Scottiſh</hi> Concurrence. Becauſe
+that leſs than ſo full a miſ-underſtand<g ref="char:EOLhyphen"/>ing cannot amply enough advance
+their hopes, or what they would attain from <hi>England</hi> thereby. As
+alſo, that an Exorbitant Intereſt embrac'd on their part, (if by any
+acci<g ref="char:EOLhyphen"/>dent Improv'd) will give more unlimited Scope and Cauſe of quarrel, in
+order to ſuch Acquiſitions, that may moſt profi<g ref="char:EOLhyphen"/>tably and largely
+anſwer their Endeavours. Whereas other<g ref="char:EOLhyphen"/>wiſe, they muſt be
+Aſſiſtants on Terms and Limitations, which might not ſo pregnantly
+Correſpond with not a few <hi>Scottiſh</hi> Inclinations.</p>
+            <p>And I take it for no ſmall Error in whoſoever does Judge, that
+by any Court-Deſign of the Dukes, or any body for him, that the
+<hi>Scots</hi> ſeem at preſent ſo hot in his behalf.</p>
+            <p>Whereas it is manifeſt, that nothing more could conſiſt with
+their Arbitrary Politicks, relating to <hi>England,</hi> than to be ſuch as
+he found them. It being held, I ſuppoſe, ano<g ref="char:EOLhyphen"/>ther kind of advantage for
+them, to take upon them Loyal<g ref="char:EOLhyphen"/>ty <pb n="3" facs="tcp:105188:3"/>at large, eſpecially where
+they found it might be reſented by our Nation, (as in caſe of the Duke's
+Belief and Succeſſion) than could poſſibly accrue to them by any
+Limitations of Confederacy, or by preſcribing a few Articles of Reformati<g ref="char:EOLhyphen"/>on,
+as was their late Covenant; by reaſon the latter could only operate on our
+Perſwaſions, or Conſciences, without any probable alteration of our
+Intereſt to any compleat <hi>Scotch</hi> purpoſe. Whereas the former does
+conclude far more in point of Expectation; or what may emerge from the
+Ani<g ref="char:EOLhyphen"/>moſities and Diſcompoſure of their Neighbour Nation.</p>
+            <p>But to ſhew you, Sir, how perfectly they watch all advan<g ref="char:EOLhyphen"/>tages,
+in oppoſition to us, and withall, how little they are kind to the ſuppos'd
+Belief of his Highneſs. I dare aſſure that Gentleman, That in Caſe
+there had been firſt any Con<g ref="char:EOLhyphen"/>deſcention obtain'd from the Parliament of
+<hi>England,</hi> as to his conceiv'd Perſwaſion, or that we had been on
+any Terms reconcil'd to his Succeſſion on that account, he ſhould ſoon
+have found the greateſt part of thoſe in that Nation, that ſeem ſo
+earneſtly to hope (though perhaps but to better their National Sun-ſhine)
+for his Riſing to a Throne, to have been ſo far provok'd by our Compliance,
+as to have prov'd his moſt Zealous Oppoſites. And I am confident, That if
+ever our State ſhall be ſo Temper'd, as to make any Expedient for his
+Succeeding to our Scepter, that they will ſoon Recoil, or be more ready to
+Reject him, than ever he perceiv'd from the Breath of a Houſe of Commons. And
+this might have been, <hi>vice verſa,</hi> another Intereſt at large, not
+at all unſuita<g ref="char:EOLhyphen"/>ble to the Complicated Genius of that Nation. On which account
+that Royal Perſon is not to hope that the <hi>Scots</hi> (in reſpect of the
+Circumſtances he is under) will ever ſo much Conduce to his advantage as
+their own. And which they can improve and alter as beſt fits the Caſt of
+their Affairs. To be ſure, their Deſignes ſhall always be ſo
+diſproportion'd to his, that where he ventures much, they will be ſure to
+hazzard little. For Example, There is no man can doubt, (from Reaſons
+al<g ref="char:EOLhyphen"/>ready mention'd) but they would aſſiſt him (if time call'd) to be as
+Arbitrary as he could make himſelf in <hi>England,</hi> provided they might
+ſhare likewiſe there, on the ſame account.</p>
+            <p>But he ſhould be certain at the ſame Time to have leſs
+advantages in <hi>Scotland,</hi> or at leaſt ſuch as are not worth the 
+<pb n="4" facs="tcp:105188:4"/>leaſt conſiderable Jewel of the <hi>Engliſh</hi>
+Diadem. Beſides that <hi>Scotland,</hi> by our late Martial Conflicts with
+that Nation, is well enough known to be rather in a Condition to Traffick with
+a War, whereby to make their returns in Money, than any ways Soul'd or
+Capacitated to go much further with the <hi>Engliſh</hi> Nation.</p>
+            <p>And it may be no Politick miſtake to Judge, that all their
+outward gloſſing Demeanours towards his Highneſs, at this preſent have
+not much a larger Compaſs; at leaſt, <hi>Scots</hi> are not ſo Imprudent,
+as not to be Contented with what they can obtain, inſtead of what they would
+otherwiſe pretend to, when their Acquieſcence is throughly requir'd by
+Force. And this was well perceiv'd in their Rendition of the late King for a
+Sum of Money, when at the ſame time they ſeem'd to be acted by another kind
+of Conſcience: A Conſideration that may deſerve a due Concernment from
+his Highneſs, if ever ſo unfortunate as to ſurvive his Royal Brother, and
+at the ſame Inſtant not held Capable of being Enthron'd by the free
+conſent of an <hi>Engliſh</hi> Parliament: Inſomuch that all the moſt
+palliated Aſſurances the Duke can effect by any means on the
+<hi>Scotch</hi> Nation, may tend rather, in the end, to his haz<g ref="char:EOLhyphen"/>zard and
+Perſonal Deprivation, than any Progreſs towards the <hi>Engliſh</hi>
+Soveraignty.</p>
+            <p>And certainly it will be very hard for <hi>Scotland</hi> to
+Impoſe on <hi>England,</hi> on any Terms, a Point ſo well known to them,
+that I am confident they will venture nothing more on any ſuch account, than
+what tends to better themſelves by ſome Tem<g ref="char:EOLhyphen"/>porary Advantages, unleſs
+they ſee the Courſe of things ac<g ref="char:EOLhyphen"/>cidentally tempt them further, than any
+Judicious Proſpect can at preſent aſſure them. Howſoever, it will lye
+in their Pow<g ref="char:EOLhyphen"/>er, that where they cannot make their Acceſſions Concurrent
+with the Duke's, they will ſtill be in a Capacity to Decline him when they
+pleaſe, and by which means they may ſo order their Deſigns, as not to
+come off Looſers. And if I were that worthy Gentleman, I ſhould not expect
+much ſounder Proceedings from that People: For though it may be ſoon
+granted, that many Eminent of the <hi>Scotch</hi> would much ra<g ref="char:EOLhyphen"/>ther be Great
+and Splendid Courtiers at <hi>London,</hi> than as they ſtand ſhaded at
+<hi>Edinburgh.</hi> Yet, were I a Popiſh Succeſſor, (as ſome body is
+ſuppos'd to be) I ſhould as hardly be brought <pb n="5" facs="tcp:105188:4"/>to rely on
+<hi>Scottiſh</hi> Faith for my Enthronement in <hi>England,</hi> as I could
+believe at the ſame time one of their High-land Moun<g ref="char:EOLhyphen"/>tains was deliver'd of a
+Mouſe, that next croſs'd the Sea into <hi>Ireland,</hi> as a miraculous
+Token of my Aſſurance and Succeſs.</p>
+            <p>If <hi>Scots,</hi> in the late Kings time, with ſome proneneſs
+ap<g ref="char:EOLhyphen"/>pear'd provok'd, by reaſon of a few Ceremonious Niceties in matters of
+Worſhip, to abandon the Eccleſiaſtical and Civil Authority of their
+Prince, would not a Man admire that a Repreſentative of the ſame People
+ſhould appear in earneſt to ſwallow a Popiſh Succeſſor (if ſo) at
+one Gub? Or that a<g ref="char:EOLhyphen"/>ny Body, or they themſelves, can conceive their Faith,
+Allegi<g ref="char:EOLhyphen"/>ance, or Manners more improv'd in the Latter, than they would be thought
+in the former? Certainly no: Yet this ſeems much like the Juggle that theſe
+profound Subjects of the North would put upon Heaven, their Prince, and their
+Neighbour Nation, and that with no leſs a Confidence, than their publick
+Authority and Teſt to that purpoſe.</p>
+            <p>If it be alledg'd in their behalf, that through their
+Self-conviction, in relation to former Crimes and diſobedience, they have
+reduc'd themſelves to a more obſequious or fuller Duty, than they have
+acknowledg'd in foregoing times; a ra<g ref="char:EOLhyphen"/>tional Man might well admire how this
+ſhould juſt fall upon their Underſtandings, with the Duke of
+<hi>York</hi>'s Reception; or on what account they would impart themſelves to
+the World better Chriſtians, or Subjects, occaſion'd from the Duke's
+O<g ref="char:EOLhyphen"/>pinion or Preſence, than they had been Character'd at other Seaſons; a
+Query that might require a Solution from them<g ref="char:EOLhyphen"/>ſelves, when they Judge it
+convenient to be render'd.</p>
+            <p>In the mean time, the Reſidence of the Duke amongſt them, has
+not only ſpread the largeneſs of their Expecta<g ref="char:EOLhyphen"/>tions, incident to his and
+their Methods, as poſſibly they may be manag'd; buy has likewiſe
+exceedingly warm'd their very general and longd eſires, of having the face
+and beneficial repute of a Court continu'd in <hi>Scotland:</hi> A thing that
+cannot but be very Commodious to a poor and low Intereſted People in other
+Reſpects; the withdrawing of which they have never took well from
+<hi>England,</hi> ſince the U<g ref="char:EOLhyphen"/>nion of the Kingdoms, well knowing that what it
+has added to us, is in ſome meaſure ſubſtracted from them. An
+Ope<g ref="char:EOLhyphen"/>ration ſo prevalent on the Pride and profitable parts of their 
+<pb n="6" facs="tcp:105188:5"/>Underſtandings, and for which <hi>England</hi> has ſo
+much of their Odium, that I aſſure any ſelf, whenſoever the Duke
+ſhall re<g ref="char:EOLhyphen"/>move his Being from that Kingdom, they will take it very
+hai<g ref="char:EOLhyphen"/>nouſly at his Hands, it not occaſion him to repent that he ever
+beſtow'd his Preſence ſo long within their Climate: un<g ref="char:EOLhyphen"/>til at laſt, if
+deſtitute of real quarrel, (inſtead of which their Inventions are luxuriant
+enough to furniſh them with what is equivolent to ſerve as well) they
+ground not only a high diſtate on his Removal, but expect ſuch a continu'd
+warm<g ref="char:EOLhyphen"/>neſs from a Court, that 'tis likely they may demand no leſs than its
+permanent Influence amongſt them ever after. And this I conceive may probably
+conclude the Acknowledgments that the Duke may have from their gratitudes
+hereafter, which cannot proceed from any other Motive than their averſions to
+<hi>England,</hi> together with their Apprehenſion that the Duke ſhould be
+any thing here, inſtead of what they deſign him there. And you may be
+aſſur'd, that it is more from the neglect he has receiv'd from
+<hi>England,</hi> and which they hope to improve, than from any reallity of
+<hi>Scotch</hi> Duty, or Fa<g ref="char:EOLhyphen"/>vours, that he has found ſuch a welcome from
+them.</p>
+            <p>And if ſo, the proſpect that his Highneſs can have from
+<hi>Scotland</hi> (though fill'd enough with themſelves) will add lit<g ref="char:EOLhyphen"/>tle to
+his Concern in <hi>England:</hi> At leaſt, if his Intereſt be no
+otherwiſe intended there, than as he ſtands on worſe terms here (of which
+there is too much ground to doubt) and gives him too much Aſſurance, that
+if he could accord the Senſe of this Nation he ſhould ſufficiently
+diminiſh his Repu<g ref="char:EOLhyphen"/>tation with them, in reſpect it is ſo hard to unite
+Intereſts on any account, as we ſtand under one Monarch. On which
+Conſideration I cannot perceive what future good can accrue to the Duke by
+any Intrigue with that People. 'Tis true, they may enable him more, perhaps, to
+hazzard, on his Account and theirs together, the Rule he may claim in
+<hi>England;</hi> but it is far more probable, that they ſhall never be able
+to perfect by their Attempts his advance to our Throne, ſince by Armes they
+may be Judged not to be e<g ref="char:EOLhyphen"/>nough ſtrengthen'd to accompliſh that work. As on
+the o<g ref="char:EOLhyphen"/>ther ſide, there is no leſs danger that their underſtandings by
+means of their Intereſt (as has been inſtanc'd already) will never fully
+guide them to comply with any accord that might tend <pb n="7" facs="tcp:105188:5"/>to the
+Duke's Reconcilement with <hi>England,</hi> unleſs they are well paid for the
+Bargain: Which ſhews enough of the dou<g ref="char:EOLhyphen"/>ble-face, or various contrivance of
+the <hi>Scots</hi> at this preſent. And may Alarm the Duke, that he may as
+ſoon be relinquiſh'd for ſome ends, as be aſſiſted for other, by
+<hi>Scotch</hi> Loyalty. And if I were his Highneſs, I ſhould judge it much
+the ſame, (if not better) to intermix none of my Intereſt (as to
+<hi>England</hi>) with <hi>Scottiſh</hi> Intrigues rather than to forward
+their Capa<g ref="char:EOLhyphen"/>city of advantaging themſelves by my Prejudice, when they find it
+conſiſtent with their Affairs.</p>
+            <p>Beſides all this, there is nothing more uncertain than to make
+out what is properly, or what ſhall continue the above<g ref="char:EOLhyphen"/>board <hi>Scotch</hi>
+Intereſt, if we ſtrictly tax either their Religion, Honour, or Profit.</p>
+            <p>For as it may be allow'd a Maxim of State, That a poor Nation will
+leaſt of all within it ſelf entirely Conſpire either in Duty, Allegiance,
+or the like, (whereas all motives to a rich People are far ſooner united or
+comprehended, there be<g ref="char:EOLhyphen"/>ing leſs Temptation to their Diſſentments) ſo
+they will never be without ſuch variety of Proſpects, as may moſt improve
+what they would foreſee in future, but ſtill with this reſerve, that
+whenſoever one Party ſhall be allow'd moſt predominant in point of
+Concern and Emolument, that the other ſhall be ſure to be wav'd, or take
+occaſion to face about with them, as things ſhall beſt Operate for ſuch
+a Converſion of Thoughts and Principles. And this may be readily obſerv'd
+in the pre<g ref="char:EOLhyphen"/>ſent poſture of <hi>Scotch</hi> managements, where we find not
+on<g ref="char:EOLhyphen"/>ly a double-fac'd Intereſt of Religion and Deſigns, but no leſs a
+Perſon than the Earl of <hi>Argile</hi> viſibly the Head of a ve<g ref="char:EOLhyphen"/>ry
+conſiderable Party. By which means, and his Eminency in that Nation, together
+with his late prevented Deſtruction, there is largely Convey'd, and no leſs
+quicken'd, as full a concern (if not greater) of that People, as what can be
+call'd the Dukes Party there. And what does this Import more, than that if they
+cannot riſe with him, there ſhall be enough in readineſs againſt him,
+or to prevent their falling with him?</p>
+            <p>And it cannot be deny'd, but this kind of Colluſion has
+accidentally conferr'd ſomething to what concerns the <hi>Engliſh</hi>
+there. Whilſt being divided as will ever be their Talent) in their ſenſe
+of what is to be propagated as their largeſt Inte<g ref="char:EOLhyphen"/>reſt, <pb n="8" facs="tcp:105188:6"/>they have much abated the Prejudice that <hi>England</hi> might
+otherwiſe receive from thence, on any account. So that if I take nothing from
+the Honour of the Earl of <hi>Argile,</hi> or his proceedings there, as to his
+particular Perſon, with other his Adherents, I may well affirm, That as their
+Deſigns ſeem variouſly Complicated, ſo there appears no leſs an
+Intention in ſome, to oblige themſelves by having it in their Power, to
+comply with <hi>England</hi> when they judge fit, than there is in others to be
+advanc'd by their Oppoſition.</p>
+            <p>Nay, ſuch as will daily more improve towards us from them, as
+their miſ-underſtandings ſhall continue, or be heightned moſt for their
+ſeveral purpoſes. A Policy that they find them<g ref="char:EOLhyphen"/>ſelves neceſſitated
+unto, from our precedently declaring againſt a Popiſh Succeſſor. Which
+I am very confident, in general, they reſent ſo much for no other reaſon,
+as that they did not do it firſt themſelves. Whereby they might have
+en<g ref="char:EOLhyphen"/>larg'd, or ſpread more their Intereſts than perhaps they believe they
+now can. And I doubt not, had we firſt made an ex<g ref="char:EOLhyphen"/>pedient for the Duke,
+(notwithſtanding his Perſwaſion) their Nation had more univerſally
+oppos'd it, than any thing that has accru'd from late Tranſactions. And in
+Conſequence, (as before touch'd) was a loſs of opportunity, not eaſie to
+be repair'd, in being more abſolutely themſelves, whatſoever they may
+pretend to the contrary, or may redound to us on the ſame account, whereas
+miſſing of that emergency, they muſt be enforc'd to be more narrow and
+ſtraitned in their Principles and Managements, whenſoever they imploy any
+Oppoſition againſt <hi>England.</hi>
+            </p>
+            <p>And this cannot at all be doubted, if conſider'd how far they
+ſtand ſway'd and notion'd by the moſt ſtrict Conduct of reformed
+Doctrine, and which has diſpers'd too many Seeds to be ſoon choak'd by any
+other Method of Devotion.</p>
+            <p>From which they can in no meaſure aſſure themſelves of the
+like entireneſs of Deſigns, and conſequently Succeſs. For the hot Party
+of Proteſtants being certainly the more numerous, and thence the moſt
+powerful of that Nation, will never ſuffer long their hopes to be muffled by
+the proceeding of ſuch that tend to more uncertain and difficult attainments;
+and what would in effect bid their Expectations depend upon greater
+Improbabilities and Diſadvantages, than the eager <pb n="9" facs="tcp:105188:6"/>and
+neceſſitous Complexion of that People will ſtand pre<g ref="char:EOLhyphen"/>par'd to endure.</p>
+            <p>Thus, though we find at this time the Body of that State
+repreſented in Parliament to be very obſequious to the Dukes Intereſt,
+yet we muſt not look upon their Parliaments to be of that laſting and
+ſoundneſs of Reſolution, as we prove ours to be in <hi>England.</hi> By
+reaſon that <hi>Scotch</hi> Parliaments, in re<g ref="char:EOLhyphen"/>ſpect of the general
+exigents of that People, (and ſuch as ſo ve<g ref="char:EOLhyphen"/>ry often inflame them to a
+Diſcompoſure) inſomuch that their Repreſentative has not only been
+ſometimes call'd with<g ref="char:EOLhyphen"/>out other conſent, than that of the People, but
+alſo inforc'd to comply by altering Conducts and Intereſts ſuitable to
+the moſt prevalent Motives of its Nation; of which there are not a few
+Examples throughout their Hiſtory.</p>
+            <p>And indeed, conſidering their Condition of Life, and the Freedom
+the pretend to, it cannot be expected to find them long in one Temper; at
+leaſt, ſuch as can bring them no greater Aſſurances, than the Dukes
+perſonal Favours and Con<g ref="char:EOLhyphen"/>cern can amount to. On which account I cannot but
+wiſh, as I honour his Highneſs, that he would not expect more from them,
+than they certainly perceive moſt facile for their ends. If he ſhould, a
+very great Perſon would ſoon find his Condition not at all eaſie
+amongſt them.</p>
+            <p>From all which, Sir, you may, in ſhort, perceive much of the
+bottom of the Dukes Station in <hi>Scotland,</hi> and how that People ſtand
+as to him, themſelves, and Us, on ſeveral accounts: With what will
+looſen, or induce moſt their Temporal com<g ref="char:EOLhyphen"/>plyance (for to belong fix'd they
+neither can nor will be) in reference to the particulars I have mention'd. From
+all which I ſhall not ſwell this Letter ſo far, as in it to predict
+Conclu<g ref="char:EOLhyphen"/>ſions. But rather chuſe to leave that Perſpective (ha<g ref="char:EOLhyphen"/>ving only
+undertaken to convey your Eye to a ſmall Caſement that opens towards the
+North) unto your more mature Deliberation and Science in State
+Con<g ref="char:EOLhyphen"/>cernments.</p>
+            <p>To be ſhort, there is a Critical Conjuncture, that will ſoon
+diſplay its Effects, I heartily wiſh to the good of both Kingdoms.</p>
+            <pb n="10" facs="tcp:105188:7"/>
+            <p>If my apprehenſions have otherwiſe guided my Con<g ref="char:EOLhyphen"/>jectures, I
+ſhall moſt readily Congratulate the miſtake of my Suppoſitions; though,
+as yet, I do not perceive a probability of their failure. Thus, Sir, according
+to your deſires, I have given you a brief view, as it lies within my
+underſtanding, of ſuch Occurrences as ſeem not a little to Influence the
+Affairs of the <hi>Scottiſh</hi> Nation: And reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>J. S.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
